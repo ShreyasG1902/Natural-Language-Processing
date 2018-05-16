@@ -1,5 +1,8 @@
-# Natural-Language-Processing
-Live Sentiment Analysis of Twitter
+# Natural-Language-Processing 
+# Live Sentiment Analysis of Twitter 
+
+# Code 1 : Training a model
+
 
 import nltk
 import random
